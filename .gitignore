@@ -1,0 +1,6 @@
+# gitignore
+
+image/
+utils/encrypt.js
+utils/sqlQuery.js
+utils/sendmail.js
